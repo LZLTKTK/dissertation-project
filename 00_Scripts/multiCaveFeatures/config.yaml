@@ -1,0 +1,11 @@
+pathInfo:
+  inputDir: "/root/working/06_PDB_for_DE/ONLY_BCB_cdhit"
+  outDir: "/root/working/08_multicave_output/BCB"
+  msmsDir: "/root/bin/msms"
+  aminoAcidTable: "/root/working/00_Scripts/multiCaveFeatures/amino_acid_properties.txt"
+optionsInfo:
+  genCofactorLabels: True
+  genAminoAcidCategories: True
+  keepIndividualCounts: True
+  normaliseCounts: False
+  keepTotalCounts: True
